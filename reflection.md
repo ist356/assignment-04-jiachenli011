@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+This time, I tried to organize the logic of the code before writing it, and organized them into comments. Because I wanted to use the built-in copilot to complete this assignment. Then I found that as long as my logic was correct, copilot could automatically give me the code. Of course, at first I found that some of the code was different because my comments were not clear. But in the end, I wrote the code in accordance with the requirements. After completing the code, I found that there were some other errors such as out of boundary. With the help of chatgpt, I quickly understood and fixed the errors.
